@@ -53,7 +53,7 @@ Comunicación • Resolución de problemas • Trabajo en equipo • Aprendizaje
 <br/>
 📩Mail: sebastianrnajleok@gmail.com
 <br/>
-💻Github: Sebas202070
+💻Linkedin: https://www.linkedin.com/in/sebastian-rodrigo-najle-7bba34125/
 
 
 
