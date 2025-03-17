@@ -3,13 +3,22 @@
 
 
 
-Hola!!👋 Me llamo Sebastián, soy de Posadas, Misiones y Lic, en administración de empresas, pero las vueltas de la vida me llevaron a estudiar programación, y con mucho esfuerzo y dedicación me gradué recientemente como Desarrollador Full Stack en Henry, donde recibí mi mayor aprendizaje en las nuevas tecnologías (librerías y frameworks) con mas de 700 horas de código en Javascript. Ademas cuento con un excelente Ingles y experiencia trabajando en equipo. Tengo muchísimas ganas de poder trabajar, desarrollarme y sumar como programador en el lugar o la empresa que me permita aplicar todo lo aprendido y todos mis conocimientos!!
-No duden en contactarme y coordinar una entrevista! 
-Saludos!!
-Sebastián,
+¡Hola! 👋 Mi nombre es Sebastián, soy de Posadas, Misiones, y soy Programador Full Stack. Gracias a mucho esfuerzo y dedicación, me gradué recientemente en Henry, donde adquirí valiosos conocimientos en nuevas tecnologías, librerías y frameworks, con más de 700 horas de práctica en JavaScript.
 
-Hello!! 👋 My name is Sebastian, I am from Posadas, Misiones and Lic, in business administration, but the twists and turns of life led me to study programming, and with much effort and dedication I recently graduated as a Full Stack Developer in Henry, where I received my greatest learning in new technologies (libraries and frameworks) with more than 700 hours of code in Javascript. I also have excellent English and experience working in a team. I really want to be able to work, develop and add as a programmer in the place or the company that allows me to apply everything I have learned and all my knowledge! Do not hesitate to contact me and arrange an interview! Best regards!! Sebastian
+Cuento con un excelente nivel de inglés y una sólida experiencia trabajando en equipo. Estoy muy motivado y preparado para poder aportar y seguir desarrollándome como programador en un entorno profesional que me permita aplicar todo lo aprendido.
 
+¡No dudes en contactarme para coordinar una entrevista!
+
+Hi! 👋 My name is Sebastián, I'm from Posadas, Misiones, and I'm a Full Stack Developer. Thanks to a lot of hard work and dedication, I recently graduated from Henry, where I gained valuable knowledge in new technologies, libraries, and frameworks, with over 700 hours of hands-on experience in JavaScript.
+
+I have an excellent level of English and solid experience working in teams. I'm highly motivated and ready to contribute and continue developing as a programmer in a professional environment that allows me to apply everything I've learned.
+
+Feel free to contact me to schedule an interview!
+
+Best regards,
+
+📩Mail: sebastianrnajleok@gmail.com
+💻Github: Sebas202070
 
 Aptitudes principales
 
